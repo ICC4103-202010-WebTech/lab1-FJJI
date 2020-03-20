@@ -19,15 +19,16 @@ included in table-rows that they can also be part of another bigger table-row
 - `hn.js`      
    
       
-    Theese are the functions that appears in the page, it haves a similarities with the .h files  
+>Theese are the functions that appears in the page, it haves a similarities with the .h files  
  in c and c++, being first declare all altogether and then they are its own development      
 - `news.css`     
     
     
-   Theese are the 'aesthetic' part of the page as witch size to use and if it uses bold or italic and colour.      
-      
-    It also brings some other stuff as where to put items that are declared, for example, '.votearrow',  
- that has the size, the margin of it and a image in the background a gif 'grayarrow.gif' # :boom: :boom: Point 3.5 :boom: :boom:  
+>Theese are the 'aesthetic' part of the page as witch size to use and if it uses bold or italic and colour.           
+>
+>It also brings some other stuff as where to put items that are declared, for example, '.votearrow',  
+ that has the size, the margin of it and a image in the background a gif 'grayarrow.gif' 
+># :boom: :boom: Point 3.5 :boom: :boom:  
 - When the page is refreshed it can be seen seven requests and each one of them  called in the HTML code.   
 (index can be seen as the initiator).  
   
