@@ -15,10 +15,12 @@ This can be seen in this example:
  The files downloaded when i pressed F5 in `Sources` contains files as `hn.js` and `news.css`    
  `hn.js`    
     
-	 Theese are the functions that appears in the page, it haves a similarities with the .h files    in c and c++, being first declare all altogether and then they are its own development    
+    Theese are the functions that appears in the page, it haves a similarities with the .h files
+    in c and c++, being first declare all altogether and then they are its own development    
   `news.css`   
 
-	Theese are the 'aesthetic' part of the page as witch size to use and if it uses        bold or italic and colour.    
-         It also brings some other stuff as where to put items that are declared, for example, '.votearrow',    
-	that has the size, the margin of it and a image in the background a gif 'grayarrow.gif' 
+	Theese are the 'aesthetic' part of the page as witch size to use and if it uses bold or italic and colour.    
+    
+    It also brings some other stuff as where to put items that are declared, for example, '.votearrow',
+    that has the size, the margin of it and a image in the background a gif 'grayarrow.gif' 
 # Point 3.5
