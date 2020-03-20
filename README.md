@@ -1,4 +1,4 @@
-# Point 3.3    
+# :boom: :boom: Point 3.3 :boom: :boom:    
  The structure of the list in the 'Elements' tab is from more general to more specific, being items     
 included in table-rows that they can also be part of another bigger table-row    
     
@@ -11,7 +11,7 @@ This can be seen in this example:
             -> page 1   
     -> box 2   
 	    -> page 2   
-# Point 3.4    
+# :boom: :boom: Point 3.4 :boom: :boom:
  The files downloaded when i pressed F5 in `Sources` contains files as `hn.js` and `news.css`    
  `hn.js`    
     
@@ -23,4 +23,4 @@ This can be seen in this example:
     
     It also brings some other stuff as where to put items that are declared, for example, '.votearrow',
     that has the size, the margin of it and a image in the background a gif 'grayarrow.gif' 
-# Point 3.5
+# :boom: :boom: Point 3.5 :boom: :boom:
