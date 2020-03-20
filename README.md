@@ -28,7 +28,7 @@ included in table-rows that they can also be part of another bigger table-row
 >
 >It also brings some other stuff as where to put items that are declared, for example, '.votearrow',  
  that has the size, the margin of it and a image in the background a gif 'grayarrow.gif' 
-># :boom: :boom: Point 3.5 :boom: :boom:  
+# :boom: :boom: Point 3.5 :boom: :boom:  
 - When the page is refreshed it can be seen seven requests and each one of them  called in the HTML code.   
 (index can be seen as the initiator).  
   
