@@ -24,3 +24,10 @@ This can be seen in this example:
     It also brings some other stuff as where to put items that are declared, for example, '.votearrow',
     that has the size, the margin of it and a image in the background a gif 'grayarrow.gif' 
 # :boom: :boom: Point 3.5 :boom: :boom:
+When the page is refreshed it can be seen 7 requests and each one of them  called in the HTML code. 
+(index can be seen as the initiator).
+
+The HTTP method used for the seven request is GET, getting in all of them a status code of 200.
+
+Seeing the `Headers` on any of the requests and, when you put near 'Response Headers', in 'view source', you can see
+that the Server used is Ngix.
